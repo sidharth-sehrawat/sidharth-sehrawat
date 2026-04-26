@@ -1,5 +1,5 @@
 # 💫 About Me:
-working as devops engineer <br>cicd fundamentals <br>3+ years of experience<br>
+Devops <br>cicd fundamentals <br>3+ years of experience<br>
 * Familiar with Docker, Kubernetes, Terraform, Ansible, and Helm
 * Experienced with GitLab and Jenkins
 * Knowledge of cloud platforms: AWS, Azure, and GCP
