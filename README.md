@@ -16,7 +16,4 @@ working as devops engineer <br>cicd fundamentals <br>3+ years of experience<br>*
 ![](https://streak-stats.demolab.com/?user=sidharth-sehrawat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sidharth-sehrawat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=sidharth-sehrawat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
