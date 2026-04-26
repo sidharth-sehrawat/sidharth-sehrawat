@@ -1,15 +1,15 @@
-# 💫 About Me:
-Devops <br>cicd fundamentals <br>3+ years of experience<br>
+# 💫 About Me :
+- Devops <br>- CI/CD Concepts <br>- 3+ Years of Experience<br>
 * Familiar with Docker, Kubernetes, Terraform, Ansible, and Helm
 * Experienced with GitLab and Jenkins
 * Knowledge of cloud platforms: AWS, Azure, and GCP
 * Clarity in monitoring tools such as Prometheus and Grafana
 
-# 📱 Socials:
+# 📱 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharth-sehrawat) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidharth.sehrawat23@gmail.com) 
 
-# 👨‍💻 Tech Stack:
+# 👨‍💻 Tech Stack :
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="50"/>
