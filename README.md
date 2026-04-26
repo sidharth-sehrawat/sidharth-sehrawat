@@ -1,5 +1,5 @@
 # 💫 About Me :
-- Devops <br>- CI/CD Concepts <br>- 3+ Years of Experience<br>
+* Devops Engineering
 * Familiar with Docker, Kubernetes, Terraform, Ansible, and Helm
 * Experienced with GitLab and Jenkins
 * Knowledge of cloud platforms: AWS, Azure, and GCP
