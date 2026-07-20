@@ -1,10 +1,3 @@
-# 💫 About Me :
-* Devops Engineering
-* Familiar with Docker, Kubernetes, Terraform, Ansible, and Helm
-* Experienced with GitLab and Jenkins
-* Knowledge of cloud platforms: AWS, Azure, and GCP
-* Clarity in monitoring tools such as Prometheus and Grafana
-
 # 📱 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharth-sehrawat) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidharth.sehrawat23@gmail.com) 
